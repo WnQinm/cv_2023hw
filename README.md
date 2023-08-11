@@ -16,3 +16,8 @@
 ~~花了三十多块在[矩池云](https://matpool.com/)用2080ti~~训练了100epoch的checkpoint~~看着train_loss几乎不降，不敢继续投钱进去了，这钱不如买两杯果茶~~，试了下生成出来的图像有点轮廓了~~最终还是没有生成出可爱猫猫:(~~
 
 [百度网盘](https://pan.baidu.com/s/1ELHkqsUD5X4eV4g7s37hVw?pwd=jx5r)
+
+------
+
+8.11：
+感觉被矩池云坑了，AutoDL性价比更高些，更便宜的价钱可以上更好的GPU和CPU，不过继续炼了1M看起来还是没什么成效（中间尝试调lr和batchsize感觉有点用，但不多），损失在[0.001,0.2]疯狂波动
